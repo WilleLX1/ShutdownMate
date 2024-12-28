@@ -1,0 +1,16 @@
+C:\projects\C#\ShutdownTimer\ShutdownTimer\bin\Debug\net8.0-windows\ShutdownTimer.exe
+C:\projects\C#\ShutdownTimer\ShutdownTimer\bin\Debug\net8.0-windows\ShutdownTimer.deps.json
+C:\projects\C#\ShutdownTimer\ShutdownTimer\bin\Debug\net8.0-windows\ShutdownTimer.runtimeconfig.json
+C:\projects\C#\ShutdownTimer\ShutdownTimer\bin\Debug\net8.0-windows\ShutdownTimer.dll
+C:\projects\C#\ShutdownTimer\ShutdownTimer\bin\Debug\net8.0-windows\ShutdownTimer.pdb
+C:\projects\C#\ShutdownTimer\ShutdownTimer\obj\Debug\net8.0-windows\ShutdownTimer.Form1.resources
+C:\projects\C#\ShutdownTimer\ShutdownTimer\obj\Debug\net8.0-windows\ShutdownTimer.csproj.GenerateResource.cache
+C:\projects\C#\ShutdownTimer\ShutdownTimer\obj\Debug\net8.0-windows\ShutdownTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\C#\ShutdownTimer\ShutdownTimer\obj\Debug\net8.0-windows\ShutdownTimer.AssemblyInfoInputs.cache
+C:\projects\C#\ShutdownTimer\ShutdownTimer\obj\Debug\net8.0-windows\ShutdownTimer.AssemblyInfo.cs
+C:\projects\C#\ShutdownTimer\ShutdownTimer\obj\Debug\net8.0-windows\ShutdownTimer.csproj.CoreCompileInputs.cache
+C:\projects\C#\ShutdownTimer\ShutdownTimer\obj\Debug\net8.0-windows\ShutdownTimer.dll
+C:\projects\C#\ShutdownTimer\ShutdownTimer\obj\Debug\net8.0-windows\refint\ShutdownTimer.dll
+C:\projects\C#\ShutdownTimer\ShutdownTimer\obj\Debug\net8.0-windows\ShutdownTimer.pdb
+C:\projects\C#\ShutdownTimer\ShutdownTimer\obj\Debug\net8.0-windows\ShutdownTimer.genruntimeconfig.cache
+C:\projects\C#\ShutdownTimer\ShutdownTimer\obj\Debug\net8.0-windows\ref\ShutdownTimer.dll
