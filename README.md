@@ -27,7 +27,7 @@ ShutdownMate is a lightweight and user-friendly Windows application designed to 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/shutdown-timer.git
+   git clone https://github.com/WilleLX1/ShutdownMate.git
    ```
 2. Open the project in Visual Studio.
 3. Build and run the application.
