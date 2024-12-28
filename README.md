@@ -45,7 +45,7 @@ Click `Clear` to cancel any active shutdown/restart commands.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
 
 ## Acknowledgments
 
